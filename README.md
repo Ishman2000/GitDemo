@@ -30,3 +30,7 @@ App for helper extension  classes.
 
 ## Added another section
 * Another section
+  
+## Added yet another section
+  * Test 1
+  * Test 2
