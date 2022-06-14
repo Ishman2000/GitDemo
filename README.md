@@ -27,3 +27,6 @@ App for helper extension  classes.
 * 14	git push
 
 * 15	git branch -d bug-00-branch-name			(delete branch)
+
+## Added another section
+* Another section
