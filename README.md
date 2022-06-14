@@ -34,3 +34,4 @@ App for helper extension  classes.
 ## Added yet another section
   * Test 1
   * Test 2
+  * Test 3
